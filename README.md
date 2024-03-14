@@ -1,5 +1,6 @@
 # BankingManagementSystem
-
+ The application includes classes for storing client debit and credit card, and a Graphical User Interface developed using BlueJ IDE
+ 
 # Installation:
 The installation of this project can be done by following these steps:
 
@@ -21,9 +22,6 @@ The installation of this project can be done by following these steps:
 
 ## Display Debit Card Details:
 ![image](https://github.com/dklkushal07/BankingManagementSystem/assets/68638711/5e3af6d1-7eed-4a71-bce9-d15a91939a7e)
-
-## Class Diagram:
-![UML](https://github.com/dklkushal07/BankingManagementSystem/assets/68638711/23d0cc8c-67d9-4d57-9719-93aa37eee021)
 
 
 
